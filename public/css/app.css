@@ -1,0 +1,25 @@
+.main-content {
+  margin-top: 100px;
+}
+
+.main-content .content-body h4 {
+  text-align: center;
+}
+
+.main-content .content-body .credentials {
+  margin-top: 30px;
+}
+
+.main-content .custom-btn-group button {
+  margin-right: 8px;
+}
+
+.main-content .redirect-button {
+  float: right;
+  margin-bottom: 20px;
+}
+
+.router-link-exact-active {
+  border-bottom: 2px solid #409EFF;
+}
+
